@@ -1,3 +1,5 @@
+# fuck yo controllers
+
 class UsersController < ApplicationController
   before_action :check_user, only: :show
 
